@@ -10,5 +10,4 @@ yarn storybook
 ```
 
 ## Screenshot
-
-![Image]("https://github.com/Clituschris/storybook-tutorial/blob/main/public/screenshots/image.png")
+![image](https://github.com/user-attachments/assets/7359914a-c2ec-4bc5-85f2-a603b10ef2a2)
